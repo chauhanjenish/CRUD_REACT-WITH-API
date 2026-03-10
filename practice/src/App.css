@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.list-heading{
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  margin: 0px 30px;
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+.user-list{
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin: 2px 30px;
+  padding: 1rem;
+  border: 1px solid grey;
+}
+.user-list li{
+  padding: 1rem;
+}
+.user-img{
+  height: 4rem;
+  width: 4rem;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    align-items: center;
+    background-color: rgb(231, 151, 191);
+}
+.links ul{
+  display: flex;
+  list-style-type: none;
+}
+.link{
+  margin-right: 0.5rem;
+  text-decoration: none;
+  color: black;
+  border: 0.4rem;
+}
