@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "name": "test",
+      "age": "22",
+      "email": "test@gmail.com",
+      "id": "f4e4"
+    },
+    {
+      "name": "Update test",
+      "age": "10",
+      "email": "test@gmail.com",
+      "id": "0b21"
+    }
+  ],
+  "emp": [
+    {
+      "name": "Hello",
+      "age": "22",
+      "dept": "Manager",
+      "id": "8413"
+    },
+    {
+      "name": "a",
+      "age": "12",
+      "dept": "Manager",
+      "id": "acdf"
+    }
+  ]
+}
